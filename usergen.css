@@ -1,13 +1,36 @@
 * {
-    font-family: Verdana;
-    background-color: antiquewhite;
+
+ background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
+/* title */
+
+title {
+font-size: 50px;
+font-family: Impact, sans-serif;
+}
+/* end */
+
+/* button */
 #btn {
+    font-size: 50px;
     background-color: white;
     color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif
 }
+/* end */
 
+/* hover */
 #btn:hover {
     background-color: gray;
+}
+/* end */ 
+
+/* names */
+#nameplace {
+  font-family: 'Lucida Sans';  
 }
