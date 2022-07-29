@@ -1,4 +1,4 @@
-const names = ["Kenny","Airfried CPU","Duck","Eternus","test"]
+const names = ["DirtyPenguin72","BoiLover22","ChickenLover99","girlkisser420","greg"]
 const btn = document.getElementById("btn");
 const nameplace = document.getElementById("nameplace");
 function getRandomUser(){
