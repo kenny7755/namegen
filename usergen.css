@@ -1,5 +1,6 @@
 * {
     font-family: Verdana;
+    background-color: antiquewhite;
 }
 
 #btn {
@@ -7,6 +8,6 @@
     color: purple;
 }
 
-#btn :hover {
-    color: gray;
+#btn:hover {
+    background-color: gray;
 }
