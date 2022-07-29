@@ -5,7 +5,7 @@ const btn = document.getElementById("btn");
 btn.addEventListener('click', function() {
 const randomUser = getrandomUser();
 console.log(getrandomUser)
-document.textContent(getrandomUser)
+document.textContent = names[getrandomUser];
 });
 
 function getRandomNumber(){
